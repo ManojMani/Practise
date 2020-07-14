@@ -106,5 +106,29 @@ for charcte in proVerb {
 print( "the number of characters are \(proVerb.count) ")
 
 
+//create an empty array of type Int, String with explicit declaration
+
+// add 5 items in each of the above declared empty arrays
+
+//create an array with 10 random integeres, remove first element, remove last element, remove element at index 5 and print the count of the array
+
+//create an array of numbers from 1 to 20 and remove all even numbers from the array
+
+
+//create an empty set of type Int, String with explicit declaration
+
+// insert value into the empty array created above
+
+// create a set of accepts string values john, triyon, jammie, cersei, sansa, arya, ned and check if the set contains "jon"
+
+var favoritemovies: Set = ["Got", "narcos", "prison break", "stranger things", "Money heist", "Dark"]
+var favoritemovies2: Set = ["simha", "legend", "Jai simha", "narcos"]
+
+//create a set with union of above two sets
+// create a intersection Set for above two sets
+
+
+
+
 
 
